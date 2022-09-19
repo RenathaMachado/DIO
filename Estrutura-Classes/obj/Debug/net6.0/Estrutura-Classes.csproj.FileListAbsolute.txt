@@ -1,0 +1,15 @@
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\bin\Debug\net6.0\Estrutura-Classes.exe
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\bin\Debug\net6.0\Estrutura-Classes.deps.json
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\bin\Debug\net6.0\Estrutura-Classes.runtimeconfig.json
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\bin\Debug\net6.0\Estrutura-Classes.dll
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\bin\Debug\net6.0\Estrutura-Classes.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\obj\Debug\net6.0\Estrutura-Classes.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\obj\Debug\net6.0\Estrutura-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\obj\Debug\net6.0\Estrutura-Classes.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\obj\Debug\net6.0\Estrutura-Classes.AssemblyInfo.cs
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\obj\Debug\net6.0\Estrutura-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\obj\Debug\net6.0\Estrutura-Classes.dll
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\obj\Debug\net6.0\refint\Estrutura-Classes.dll
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\obj\Debug\net6.0\Estrutura-Classes.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\obj\Debug\net6.0\Estrutura-Classes.genruntimeconfig.cache
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-Classes\obj\Debug\net6.0\ref\Estrutura-Classes.dll

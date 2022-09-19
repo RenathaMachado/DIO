@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Estrutura-de-Repeticao/1.0.0": {
+        "dependencies": {
+          "Estrutura-de-Repeticao-Cammon": "1.0.0"
+        },
+        "runtime": {
+          "Estrutura-de-Repeticao.dll": {}
+        }
+      },
+      "Estrutura-de-Repeticao-Cammon/1.0.0": {
+        "runtime": {
+          "Estrutura-de-Repeticao-Cammon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estrutura-de-Repeticao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Estrutura-de-Repeticao-Cammon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

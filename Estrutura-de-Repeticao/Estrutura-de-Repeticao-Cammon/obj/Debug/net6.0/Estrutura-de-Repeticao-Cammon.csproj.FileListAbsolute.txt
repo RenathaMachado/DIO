@@ -1,0 +1,12 @@
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\bin\Debug\net6.0\Estrutura-de-Repeticao-Cammon.deps.json
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\bin\Debug\net6.0\Estrutura-de-Repeticao-Cammon.dll
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\bin\Debug\net6.0\Estrutura-de-Repeticao-Cammon.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\obj\Debug\net6.0\Estrutura-de-Repeticao-Cammon.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\obj\Debug\net6.0\Estrutura-de-Repeticao-Cammon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\obj\Debug\net6.0\Estrutura-de-Repeticao-Cammon.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\obj\Debug\net6.0\Estrutura-de-Repeticao-Cammon.AssemblyInfo.cs
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\obj\Debug\net6.0\Estrutura-de-Repeticao-Cammon.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\obj\Debug\net6.0\Estrutura-de-Repeticao-Cammon.dll
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\obj\Debug\net6.0\refint\Estrutura-de-Repeticao-Cammon.dll
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\obj\Debug\net6.0\Estrutura-de-Repeticao-Cammon.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Bootcamp-Pottencial\Estrutura-de-Repeticao\Estrutura-de-Repeticao-Cammon\obj\Debug\net6.0\ref\Estrutura-de-Repeticao-Cammon.dll
