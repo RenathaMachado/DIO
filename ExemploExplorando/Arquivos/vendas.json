@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Computador",
+    "Preco": 3.500,
+    "DataVenda": "2022-10-04T00:03:11.50922-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 2,
+    "Produto": "Cadeira Gamer",
+    "Preco": 2.700,
+    "DataVenda": "2022-10-04T00:03:11.50922-03:00",
+    "Desconto": 10
+  }
+]

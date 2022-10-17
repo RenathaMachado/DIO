@@ -57,4 +57,4 @@ while (exibirMenu)
     Console.ReadLine();
 }
 
-Console.WriteLine("O programa se encerrou");
+    Console.WriteLine("O programa se encerrou");

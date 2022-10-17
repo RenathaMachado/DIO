@@ -1,0 +1,17 @@
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.dll
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.pdb
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.dll
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\refint\ExemploExplorando.dll
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Andre\Documents\Bootcamp-Pottencial-DIO\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CopyComplete
