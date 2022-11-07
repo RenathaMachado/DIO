@@ -1,0 +1,56 @@
+@model IEnumerable<DesafioApi.Models.Tarefa>
+
+@{
+    ViewData["Title"] = "Todas as Tarefas";
+}
+
+<body style="background-color: #F0FFF0;">
+<h2>Todas as tarefas</h2>
+<hr/>
+<table>
+    <thead> <!-- Cabeçalho -->
+        <tr> <!-- Linhas -->
+            <th> <!-- células das linhas do cabeçalho -->
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> 
+                    @Html.DisplayFor(model=>item.Id)
+                </td>
+                 <td>
+                    @Html.DisplayFor(model=>item.Titulo)
+                </td>
+                 <td>
+                    @Html.DisplayFor(model=>item.Descricao)
+                </td>
+                 <td>
+                    @Html.DisplayFor(model=>item.Data)
+                </td>
+                <td>
+                    @Html.DisplayFor(model=>item.Status)
+                </td>
+        </tr>
+    }
+</table>
+
+
+<a asp-action="Index"> Voltar</a>
+</body>

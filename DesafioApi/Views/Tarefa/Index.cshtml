@@ -1,0 +1,74 @@
+@model IEnumerable<DesafioApi.Models.Tarefa> // A página será carregada e retornará uma lista (Ienumerable)
+
+@{
+    ViewData["Title"] = "Listagem de Tarefas";
+}
+
+<body style="background-color: #F0FFF0">
+
+<h2>Tarefas</h2>
+<br>
+<br>
+<br>
+<p>
+    <a style="border-radius: 4px; text-decoration:none" class="btn-primary" asp-action="Criar">Nova tarefa</a>
+</p>
+<p>
+    <a style="border-radius: 4px; text-decoration:none" class="btn-primary" asp-action="ObterTodos">Detalhes</a>
+</p>
+<br>
+
+<table class="table">
+
+    <thead> <!-- Cabeçalho -->
+        <tr> <!-- Linhas -->
+            <th> <!-- células das linhas do cabeçalho -->
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody style="background-color: #BEBEBE;">
+        @foreach (var item in Model) // para cada item em Model será exibido as informações em uma tabela
+        {
+            <tr>
+                <td> 
+                    @Html.DisplayFor(model=>item.Id)
+                </td>
+                 <td>
+                    @Html.DisplayFor(model=>item.Titulo)
+                </td>
+                 <td>
+                    @Html.DisplayFor(model=>item.Descricao)
+                </td>
+                 <td>
+                    @Html.DisplayFor(model=>item.Data)
+                </td>
+                <td>
+                    @Html.DisplayFor(model=>item.Status)
+                </td>
+                
+                
+                <td> 
+                    
+                    <a style="border-radius: 4px; text-decoration:none" class="btn-primary" asp-action="Atualizar" asp-route-id="@item.Id">Atualizar</a> | 
+                    <a style="border-radius: 4px; text-decoration:none" class="btn-primary" asp-action="Deletar" asp-route-id="@item.Id">Deletar</a>
+                </td>
+                <hr/>
+            </tr>
+        }
+    </tbody>
+</table>

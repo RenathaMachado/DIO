@@ -1,0 +1,45 @@
+@model DesafioApi.Models.Tarefa
+
+@{
+    ViewData["Title"] = "Atalizar tarefa";
+}
+<body style="background-color: #D8BFD8;">
+<h1>Atualizar tarefa</h1>
+
+<hr/>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action= "Atualizar">
+            <div class="form-group">
+                <label asp-for="Titulo" class="control-label"></label><!--Nome da informação -->
+                <input asp-for="Titulo" class="form-control"/> <!--Entrada do dado -->
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Descricao" class="control-label"></label>
+                <input asp-for="Descricao" class="form-control"/>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Data" class="control-label"></label>
+                <input asp-for="Data" class="form-control"/>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <input asp-for="Status" class="form-control"/>
+            </div>
+            <br>
+            <div class="form-group">
+                <input type="submit" value="Atualizar" class="btn-primary"/> <!-- input submit enviará os dados para o banco via POST -->
+            </div>
+        </form>
+    </div>
+</div>
+
+<br>
+<div>
+    <a style="border-radius: 4px; text-decoration:none" asp-action="Index">Voltar</a>
+</div>
+
+</body>
