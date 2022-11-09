@@ -47,6 +47,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Andre/Documents/Bootcamp-Pottencial-DIO/DesafioApi/Views/Tarefa/ObterPorData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXE9idGVyUG9yRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andre/Documents/Bootcamp-Pottencial-DIO/DesafioApi/Views/Tarefa/ObterPorDescricao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXE9idGVyUG9yRGVzY3JpY2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andre/Documents/Bootcamp-Pottencial-DIO/DesafioApi/Views/Tarefa/ObterPorId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXE9idGVyUG9ySWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andre/Documents/Bootcamp-Pottencial-DIO/DesafioApi/Views/Tarefa/ObterPorStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXE9idGVyUG9yU3RhdHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andre/Documents/Bootcamp-Pottencial-DIO/DesafioApi/Views/Tarefa/ObterPorTitulo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXE9idGVyUG9yVGl0dWxvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Andre/Documents/Bootcamp-Pottencial-DIO/DesafioApi/Views/Tarefa/ObterTodos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXE9idGVyVG9kb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,21 @@
+@model DesafioApi.Models.Tarefa
+
+@{
+    ViewData["Title"] = "Pesquisar";
+}
+
+<h1>Escolha sua opção de pesquisa</h1>
+
+<hr/>
+<div>
+    <form asp-action= "ObterPorTitulo">
+        <div>
+            <label asp-for="Titulo" class="control-label"></label>
+            <input asp-for="Titulo" class="form-control"/> 
+        </div>
+    </form>
+</div>
+
+<div>
+    <a style="text-decoration:none" asp-action="Index">Voltar</a>
+</div>

@@ -7,7 +7,7 @@
 <body style="background-color: #F0FFF0;">
 <h2>Todas as tarefas</h2>
 <hr/>
-<table>
+<table class="table">
     <thead> <!-- Cabeçalho -->
         <tr> <!-- Linhas -->
             <th> <!-- células das linhas do cabeçalho -->
@@ -28,11 +28,11 @@
             <th></th>
         </tr>
     </thead>
-    
-    @foreach (var item in Model)
-    {
-        <tr>
-            <td> 
+
+    @foreach (var item in Model) // para cada item em Model será exibido as informações em uma tabela
+        {
+            <tr>
+                <td> 
                     @Html.DisplayFor(model=>item.Id)
                 </td>
                  <td>
@@ -47,10 +47,13 @@
                 <td>
                     @Html.DisplayFor(model=>item.Status)
                 </td>
-        </tr>
-    }
+            </tr>    
+        }
+   
+    
 </table>
-
-
-<a asp-action="Index"> Voltar</a>
 </body>
+
+<div class="btn-goup" role="group">
+    <a role="button" class="btn btn-primary" asp-action="Index"> Voltar</a>
+</div>
